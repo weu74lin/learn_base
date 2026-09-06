@@ -1,0 +1,9 @@
+[
+    {
+        "name": "test3",
+        "description": "测试4",
+        "price": 400.0,
+        "tax": 258.0,
+        "tags": []
+    }
+]
